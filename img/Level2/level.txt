@@ -1,0 +1,7 @@
+background.webp 0 0
+key.png 150 700 50 50
+flower.png 100 480 150 280
+topka.png 20 650 100 75
+light.png 100 300 100 65
+sheeps/Polly.png 400 700 200 200
+sheeps/Lolly.png 200 700 200 200

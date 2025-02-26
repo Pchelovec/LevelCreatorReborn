@@ -1,0 +1,4 @@
+background.png 0 0
+sheeps/Polly.png 0 350 150 150
+sheeps/Lolly.png 150 350 150 150
+sheeps/Trolly.png 300 350 150 150
