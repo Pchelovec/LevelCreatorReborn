@@ -27,6 +27,8 @@ private slots:
     void on_saveToFilePB_clicked();
     void on_prev_PB_clicked();
 
+    void on_pushButton_2_clicked();
+
 private:
     Ui::Widget *ui;
     QString levelPath;

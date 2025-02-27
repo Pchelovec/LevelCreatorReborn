@@ -81,15 +81,17 @@ QString Widget::getPath(QStringList l)
 
 void Widget::draw()
 {
-    //label for output
-    QLabel *label=new QLabel();
+//    //label for output
+//    QLabel *label=new QLabel();
 
-    //extract drawed images
-    QPixmap *pixmap = getPixmap();
+//    //extract drawed images
+//    QPixmap *pixmap = getPixmap();
 
-    //set images to label and show
-    label->setPixmap(*pixmap);
-    label->show();
+//    //set images to label and show
+//    label->setPixmap(*pixmap);
+//    label->show();
+    ui->stackedWidget->setCurrentIndex(1);
+    ui->contentLabel->setPixmap(*getPixmap());
 }
 
 QPixmap* Widget::getPixmap()
@@ -286,4 +288,9 @@ void Widget::on_saveToFilePB_clicked()
 void Widget::on_prev_PB_clicked()
 {
     draw();
+}
+
+void Widget::on_pushButton_2_clicked()
+{
+    ui->stackedWidget->setCurrentIndex(0);
 }

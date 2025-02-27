@@ -1,0 +1,7 @@
+room_wall.webp 0 0
+Banksy/graffiti1.png 120 300 300 158
+Banksy/graffiti2.jpg 450 280 284 178
+Banksy/graffiti3.png 760 130 368 327
+Banksy/graffiti4.png 1185 208 399 245
+Banksy/img1.png 1640 150 300 296
+Banksy/img2.png 2000 150 304 296

@@ -1,0 +1,11 @@
+background.png 0 0
+tv_large.png 1270 315 200 140
+rubics_cube.png 1200 620 50 50
+pult.webp 1100 400 50 80
+sheeps/Polly.png 900 350 200 200
+sheeps/Lolly.png 690 350 200 200
+butterfly.png 465 130 50 50
+books.png 200 350 120 120
+key.png 465 5 50 50
+flowers.png 60 600 200 200
+lamp.png 1200 5 120 80
