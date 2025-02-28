@@ -1,0 +1,10 @@
+kitchen.png 0 0
+tea_cup.png 520 480 100 60
+tea_flower.png 660 400 120 100
+flower.png 100 5 100 100
+tefal.png 100 360 151 107
+empty_soup.png 260 400 128 62
+jam.png 580 400 60 50
+kivi.png 610 480 50 50
+sheeps/Polly.png 240 600 200 200
+sheeps/Lolly.png 20 600 200 200

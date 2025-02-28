@@ -1,0 +1,10 @@
+opened_box.png 0 0
+food_group.png 200 400 300 280
+pumpkin.png 500 480 180 160
+oil.png 220 240 80 140
+pear.png 360 260 80 100
+tomato_in_bank.png 440 260 80 100
+jam.png 490 410 80 100
+lighting.png 200 5 80 100
+kivi.png 180 160 50 50
+sheff.png 320 100 180 120

@@ -226,6 +226,7 @@ void Widget::on_pushButton_clicked()
 
         ui->tableWidget->clear();
         ui->tableWidget->setRowCount(list.length()+1);
+        ui->tableWidget->setHorizontalHeaderLabels(QStringList()<<"img"<<"X"<<"Y"<<"width"<<"height");
         ui->tableWidget->setItem(0,0,new QTableWidgetItem(background.name));
         ui->tableWidget->setItem(0,1,new QTableWidgetItem("0"));
         ui->tableWidget->setItem(0,2,new QTableWidgetItem("0"));
