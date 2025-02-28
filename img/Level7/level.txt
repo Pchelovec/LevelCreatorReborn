@@ -1,0 +1,9 @@
+b1.png 0 0
+coin1.png 600 400 75 75
+ball.png 600 400 75 75
+house_in_tree.png 820 190 400 600
+drinks/water.png 700 300 50 100
+drinks/water0.png 770 290 100 100
+sheeps/Polly.png 50 550 200 200
+sheeps/Lolly.png 250 550 200 200
+sheeps/Trolly.png 450 550 200 200

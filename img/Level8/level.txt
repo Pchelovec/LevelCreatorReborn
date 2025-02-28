@@ -1,0 +1,10 @@
+b2.png 0 0
+house_in_tree2.png 240 100 350 600
+basked_goal_area.png 50 100 120 120
+coin2.png 50 600 100 100
+basketBall_ball 50 600 100 100
+sheeps/Polly.png 550 550 200 200
+sheeps/Lolly.png 750 550 200 200
+sheeps/Trolly.png 950 550 200 200
+drinks/water.png 800 450 50 100
+drinks/water0.png 880 450 100 100
