@@ -1,0 +1,7 @@
+img2.png 0 0
+sheeps/Polly.png 900 400 200 200
+sheeps/Trolly.png 100 540 200 200
+emptyBang.png 50 440 100 100
+butterfly/b1.png 450 130 50 50
+butterfly/b2.png 440 0 50 50
+butterfly/b0.png 1100 140 75 75

@@ -1,0 +1,8 @@
+b0.jpg 0 0
+eiffelTower.png 500 -200 300 600
+banana.png 300 25 50 50
+apple.png 110 20 50 50
+kivi.png 480 20 50 50
+sheeps/Polly.png 10 270 100 100
+sheeps/Trolly.png 110 270 100 100
+books.png 240 220 75 75

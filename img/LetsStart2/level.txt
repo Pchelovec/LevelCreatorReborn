@@ -1,0 +1,7 @@
+img1.png 0 0
+pisaTower.png 600 45 228 299
+bird.png 320 22 50 50
+smallCar.png 20 260 115 115
+sheeps/Polly.png 200 280 100 100
+sheeps/Trolly.png 300 280 100 100
+loveBang.png 260 240 50 50
