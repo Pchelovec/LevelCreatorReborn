@@ -1,0 +1,6 @@
+brokenPrison.png 0 0
+light.png 140 45 60 100
+rasp.png 220 450 100 50
+bread.png 220 450 100 50
+sheeps/Polly.png 580 500 180 180
+days/day7.png 520 440 100 80

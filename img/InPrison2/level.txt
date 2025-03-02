@@ -1,0 +1,6 @@
+prison0WithTable.png 0 0
+light.png 140 45 60 100
+sheeps/Polly.png 580 500 180 180
+days/day1.png 520 440 100 80
+water.png 200 400 50 100
+cigarette.png 300 475 100 60

@@ -1,0 +1,5 @@
+prison2.png 0 0
+light.png 140 45 60 100
+sheeps/Polly.png 580 500 180 180
+days/day9.png 520 440 100 80
+suitcase.webp 200 500 200 200

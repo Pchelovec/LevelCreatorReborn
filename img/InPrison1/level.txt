@@ -1,0 +1,6 @@
+fort.png 0 0
+policeman.webp 240 440 256 256
+sheeps/Polly.png 500 540 150 150
+bang/arestedInformation.png 400 580 85 85
+bang/why.png 440 500 75 75
+bang/because.png 400 400 85 85
